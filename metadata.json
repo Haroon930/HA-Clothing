@@ -1,0 +1,6 @@
+{
+  "name": "HA Clothing",
+  "description": "Premium streetwear and casual apparel online storefront.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
